@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Mrahadyanbangkit, people usally call me as "mamad or rahadyan"
 - 👀 I’m interested in game, sport, travelling, 
 - 🌱 I’m currently learning Fullend specially on the UI/UX, front-end html css, and  Backend especially PHP and Mysql as a server-side
-- 💞️ I’m looking to collaborate on Programming skills on the Website untill Mobile 
+- 💞️ I’m looking to collaborate on Programming skills on the Website 
 - 📫 How to reach me ...
 - 1.) Instagram: @mrahadyan_04
-- 2.) Facebook : Muhammad Rahadyan
 - 3.) Twitter : Muhammadrahadyan2
 
 <!---
